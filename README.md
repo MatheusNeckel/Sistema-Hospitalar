@@ -28,4 +28,4 @@ Conta com **interface gráfica em Swing**, **camada DAO/Serviços** e **testes u
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-hospitalar.git
+   git clone https://github.com/MatheusNeckel/Sistema-Hospitalar.git
