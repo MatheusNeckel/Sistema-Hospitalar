@@ -1,7 +1,7 @@
 # Sistema Hospitalar 🏥
 
 Sistema desktop em **Java (Swing)** com **MySQL** para **cadastro e consulta de pacientes e convênios**.  
-Projeto acadêmico com camadas **DAO/DTO/Serviços**, **JUnit** para testes e organização pronta para portfólio.
+Projeto acadêmico com camadas **DAO/DTO/Serviços**, **JUnit** com estrutura organizada para apresentação profissional e inclusão no portfólio.
 
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/Java-8%2B-orange">
